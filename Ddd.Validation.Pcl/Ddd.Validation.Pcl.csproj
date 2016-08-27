@@ -55,8 +55,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Ddd.Specification, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Ddd.Specification.1.0.0\lib\portable45-net45+win8+wpa81\Ddd.Specification.dll</HintPath>
+    <Reference Include="Ddd.Specification, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ddd.Specification.1.0.0.1\lib\portable45-net45+win8+wpa81\Ddd.Specification.dll</HintPath>
       <Private>True</Private>
     </Reference>
   </ItemGroup>
